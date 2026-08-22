@@ -1,0 +1,9 @@
+---
+remotes:
+  - git_url: "https://github.com/apeiros-innovations/common"
+    ref: main
+    configs:
+      - "lefthook.common.yaml"
+      - "lefthook.github.yaml"
+      - "lefthook.opentofu.yaml"
+      - "lefthook.terragrunt.yaml"

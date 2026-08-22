@@ -13,11 +13,11 @@ inputs = {
   network_route_gateway = "192.168.1.1"
   network_route_cidr    = "192.168.1.1/24"
   # Inputs for harvester_vm_image module
-  image_name         = "almalinux-9.5"
+  image_name         = "almalinux-10.2"
   image_namespace    = "harvester-public"
-  image_display_name = "AlmaLinux 9.5"
+  image_display_name = "AlmaLinux 10.2"
   image_source_type  = "download"
-  image_url          = "https://repo.almalinux.org/almalinux/9/cloud/x86_64/images/AlmaLinux-9-GenericCloud-9.5-20241120.x86_64.qcow2"
+  image_url          = "https://repo.almalinux.org/almalinux/10.2/cloud/x86_64/images/AlmaLinux-10-GenericCloud-10.2-20260526.0.x86_64.qcow2"
   image_tags         = { "os" = "example-os" }
 
   # Inputs for harvester_vm module

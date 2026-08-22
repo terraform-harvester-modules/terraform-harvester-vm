@@ -1,0 +1,11 @@
+---
+version: "0.2"
+language: en
+caseSensitive: false
+allowCompoundWords: true
+ignoreRandomStrings: true
+useGitignore: true
+import:
+  - https://raw.githubusercontent.com/apeiros-innovations/common/main/.cspell.yaml
+words:
+  - alma
