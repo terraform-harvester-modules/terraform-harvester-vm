@@ -6,4 +6,3 @@ remotes:
       - "lefthook.common.yaml"
       - "lefthook.github.yaml"
       - "lefthook.opentofu.yaml"
-      - "lefthook.terragrunt.yaml"
