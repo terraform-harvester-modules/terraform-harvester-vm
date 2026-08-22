@@ -1,0 +1,5 @@
+[tools]
+"aqua:opentofu/opentofu" = "1.12.5"
+"aqua:terraform-docs/terraform-docs" = "0.24.0"
+"aqua:terraform-linters/tflint" = "0.64.0"
+"aqua:aquasecurity/trivy" = "0.74.0"

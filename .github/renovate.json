@@ -9,10 +9,7 @@
     ":automergeBranch"
   ],
   "dependencyDashboardTitle": "Dependency Management Dashboard 🤖",
-  "suppressNotifications": [
-    "prEditedNotification",
-    "prIgnoreNotification"
-  ],
+  "suppressNotifications": ["prEditedNotification", "prIgnoreNotification"],
   "rebaseWhen": "conflicted",
   "commitBodyTable": true,
   "platformCommit": "enabled",
@@ -22,11 +19,7 @@
   "platformAutomerge": true,
   "packageRules": [
     {
-      "matchUpdateTypes": [
-        "patch",
-        "pin",
-        "digest"
-      ],
+      "matchUpdateTypes": ["patch", "pin", "digest"],
       "automerge": true,
       "automergeType": "pr"
     }

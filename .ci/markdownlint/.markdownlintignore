@@ -1,5 +1,0 @@
-# .markdownlintignore
-
-# Ignore a specific file
-.yamlfmt
-.prettierignore

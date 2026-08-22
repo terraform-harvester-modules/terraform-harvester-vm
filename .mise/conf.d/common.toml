@@ -1,0 +1,20 @@
+[tools]
+python = "3.14.7"
+node = "26.7.0"
+
+"npm:oxfmt" = "0.63.0"
+"npm:cspell" = "10.0.1"
+"npm:@commitlint/cli" = "21.2.2"
+"npm:@commitlint/config-conventional" = "21.2.2"
+"npm:markdownlint-cli2" = "0.23.2"
+"aqua:astral-sh/uv" = "0.12.5"
+"aqua:mvdan/sh" = "3.13.1"
+"aqua:casey/just" = "1.58.0"
+"aqua:betterleaks/betterleaks" = "1.7.4"
+"aqua:evilmartians/lefthook" = "2.1.10"
+"aqua:koalaman/shellcheck" = "0.11.0"
+"aqua:google/yamlfmt" = "0.21.0"
+"aqua:editorconfig-checker/editorconfig-checker" = "3.11.1"
+"aqua:dotenv-linter/dotenv-linter" = "4.0.0"
+
+"pipx:yamllint" = "1.38.0"
